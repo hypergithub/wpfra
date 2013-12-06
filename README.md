@@ -1,4 +1,4 @@
 wpfra
 =====
 
-wp-config starter set
+wp-config and .htaccess starter set
